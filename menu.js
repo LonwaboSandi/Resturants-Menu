@@ -71,6 +71,30 @@ const menu = [
       img: "./images/QuarantileShake.jpg",
       desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
     },
+    {
+      id: 10,
+      title: "Boozy Shake",
+      category: "shakes",
+      price: 20.00,
+      img: "./images/BoozyShakes.jpg",
+      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    },
+    {
+      id: 11,
+      title: "English Breakfast",
+      category: "breakfast",
+      price: 30.00,
+      img: "./images/EnglishBreakfast.jfif",
+      desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    },
+    {
+      id: 12,
+      title: "Chicken Chips",
+      category: "lunch",
+      price: 30.00,
+      img: "./images/ChickenChips.jpg",
+      desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    },
   ];
   
   //fetch where the menu is contained
